@@ -12,8 +12,8 @@ En este reto reforzarás tus conocimientos en JavaScript, creando funciones, tra
    - Parámetro 2 - Un array de strings
 - La función debe devolver todas las palabras del array de entrada (parámetro 2) que sean más largas que el string de entrada (parámetro 1)
 - Ejemplo:
-   - `const myArray = ['insecto', 'bootcamp', 'mangos', 'reptil', 'mosca', 'escritorio'];`
-   - `bigWords('bocina', myArray);`
+   - `const myArray = ['insecto', 'bootcamp', 'mangos', 'reptil', 'mosca', 'escritoo'];`
+   - `bigWords('bocina', myArray);`ri
    - Output - `['insecto', 'bootcamp', 'escritorio']`
 
 2.- Construye una función que reciba por parámetros un array de strings y lo imprima dentro de la lista (<ul></ul>) en el index.html. La función debe mostrar la lista en el HTML manipulando el DOM, cada string del arreglo debe imprimirse en un elemento **<li></li>**. El array que se recibe por parámetros debe ser un array resultante de utilizar la función anterior.
